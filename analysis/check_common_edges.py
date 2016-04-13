@@ -3,7 +3,7 @@
 import argparse
 import os
 
-""" check overlap of (user, review) pairs in train and test data sets """
+""" check overlap of (user, review) pairs in data sets """
 
 def checker(inputFile):
     S = set()
