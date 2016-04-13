@@ -1,2 +1,4 @@
 # Link-Prediction-and-matching_Yelp
-This is part of my social network class project. We need to finish a proposal, milestone and final project. I will post the file onto Github when it is submitted.
+Python Code for the data set, every file corresponds to its name. I have finished data cleaning and learn to draw figures in Python with matplotlib package.
+
+All the original data are organized in JSON and can be found in https://www.kaggle.com/c/yelp-recsys-2013. 
